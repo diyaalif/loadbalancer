@@ -30,8 +30,10 @@ This repository demonstrates the end-to-end configuration and verification of a 
          | Content: WEBSITE1 (AWS)     |         | Content: WEBSITE2 (AZURE)   |
          +-----------------------------+         +-----------------------------+
 ```
-[Configuration & Environment Specifications](Configuration.md)
-[Deployment Steps](Deploymentsteps.md)
+[Configuration & Environment Specifications](Configuration.md) |
+
+[Deployment Steps](Deploymentsteps.md) | 
+
 [Output & Verification](Output&verify.md)
 
 
