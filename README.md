@@ -29,3 +29,8 @@ This repository demonstrates the end-to-end configuration and verification of a 
          | Target Group: 'lb'          |         | Target Group: 'lb'          |
          | Content: WEBSITE1 (AWS)     |         | Content: WEBSITE2 (AZURE)   |
          +-----------------------------+         +-----------------------------+
+```
+[Configuration & Environment Specifications](Configuration.md)
+
+
+
