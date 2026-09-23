@@ -34,7 +34,7 @@ This repository demonstrates the end-to-end configuration and verification of a 
 
 [Deployment Steps](Deploymentsteps.md)  
 
-[Output & Verification](Output&verify.md)
+[Output & Verification](Ouput&verify.md)
 
 
 
