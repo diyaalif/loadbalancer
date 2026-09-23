@@ -31,6 +31,8 @@ This repository demonstrates the end-to-end configuration and verification of a 
          +-----------------------------+         +-----------------------------+
 ```
 [Configuration & Environment Specifications](Configuration.md)
+[Deployment Steps](Deploymentsteps.md)
+[Output & Verification](Output&verify.md)
 
 
 
