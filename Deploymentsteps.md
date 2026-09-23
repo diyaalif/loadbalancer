@@ -1,4 +1,4 @@
-#Deployment Steps
+# Deployment Steps
 Step 1: Provision EC2 Instances
 Launch two Amazon Linux 2023 EC2 instances in your VPC and ensure the attached Security Group allows inbound traffic on HTTP (Port 80) and SSH (Port 22).
 
