@@ -1,5 +1,4 @@
-# loadbalancer
-## AWS High-Availability Application Load Balancer Architecture
+# AWS High-Availability Application Load Balancer Architecture
 
 This repository demonstrates the end-to-end configuration and verification of a highly available, fault-tolerant **AWS Application Load Balancer (ALB)** setup. The load balancer receives HTTP traffic on Port 80 and distributes requests across multiple Amazon EC2 backend instances host in different Availability Zones within an Amazon VPC.
 
